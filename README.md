@@ -57,7 +57,8 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 Veja o projeto completo em: [Portfólio](https://portfolio-44217.web.app)
 
 
-##🔨 Estrutura do Projeto
+
+## 🔨 Estrutura do Projeto
    ```
       src/
       ├── components/       # Componentes reutilizáveis
@@ -74,7 +75,10 @@ Veja o projeto completo em: [Portfólio](https://portfolio-44217.web.app)
 [Documentação do Material-UI]("https://mui.com")
 
 
-🤝 Contribuições
+
+## 🤝 Contribuições
 Contribuições são bem-vindas! Se você deseja melhorar algo no projeto ou adicionar novas funcionalidades, sinta-se à vontade para enviar um pull request.
+
+
 
 Feito com ❤️ por Fabio Henrique.
