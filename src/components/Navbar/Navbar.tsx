@@ -20,9 +20,9 @@ const Navbar = () => {
         <ScrollLink to="skills" smooth={true} duration={500}>
           <StyledMenuItem>Skills</StyledMenuItem>
         </ScrollLink>
-        {/*<ScrollLink to="projects" smooth={true} duration={500}>
+        <ScrollLink to="projects" smooth={true} duration={500}>
           <StyledMenuItem>Projects</StyledMenuItem>
-  </ScrollLink>*/}
+  </ScrollLink>
         <ScrollLink to="contact" smooth={true} duration={500}>
           <StyledMenuItem>Contact</StyledMenuItem>
         </ScrollLink>
