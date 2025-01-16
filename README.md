@@ -60,19 +60,59 @@ Veja o projeto completo em: [Portfólio](https://portfolio-44217.web.app)
 
 ## 🔨 Estrutura do Projeto
    ```
-      src/
-      ├── components/       # Componentes reutilizáveis
-      ├── pages/            # Páginas principais do portfólio
-      ├── styles/           # Arquivos de configuração do Tailwind e estilos globais
-      ├── assets/           # Imagens, ícones e outros recursos
-      ├── utils/            # Funções auxiliares
-      └── App.tsx           # Componente raiz da aplicação
+my_portfolio/
+├── .firebase/               # Arquivos de configuração do Firebase
+├── .github/workflows/       # Configurações de CI/CD para o GitHub Actions
+├── dist/                    # Build da aplicação (gerado pelo Vite)
+├── node_modules/            # Dependências instaladas
+├── public/
+│   ├── curriculo.pdf        # PDF com o currículo
+├── src/
+│   ├── assets/              # Recursos como imagens e estilos
+│   │   ├── images/          # Imagens do projeto
+│   │   ├── styles/          # Estilos globais e customizações
+│   ├── components/          # Componentes reutilizáveis
+│   │   ├── Footer/          # Rodapé da aplicação
+│   │   ├── Navbar/          # Barra de navegação
+│   │   ├── StyledButton.tsx # Componente de botão estilizado
+│   ├── pages/               # Páginas do portfólio
+│   │   ├── Home/            # Página inicial
+│   │   │   ├── sections/
+│   │   │   │   ├── About/    # Sessão "Sobre Mim"
+│   │   │   │   ├── Contact/  # Sessão "Contato"
+│   │   │   │   ├── Hero/     # Sessão de apresentação
+│   │   │   │   ├── Skills/   # Sessão de habilidades
+│   ├── AnimatedCanvas.tsx   # Animações customizadas na tela
+│   ├── App.tsx              # Componente raiz
+│   ├── index.css            # Estilos globais
+│   ├── main.tsx             # Entrada principal do React
+│   ├── theme.ts             # Configuração de tema do Material-UI
+│   ├── vite-env.d.ts        # Tipagens do Vite
+├── .firebaserc               # Configurações do Firebase
+├── .gitignore                # Arquivos a serem ignorados pelo Git
+├── eslint.config.js          # Configurações do ESLint
+├── firebase.json             # Configuração do Firebase Hosting
+├── index.html                # Template HTML principal
+├── package-lock.json         # Controle de versões de dependências (npm)
+├── package.json              # Gerenciamento de dependências
+├── postcss.config.js         # Configurações do PostCSS
+├── tailwind.config.js        # Configurações do Tailwind CSS
+├── tsconfig.app.json         # Configuração específica para o app (TypeScript)
+├── tsconfig.json             # Configurações globais do TypeScript
+├── tsconfig.node.json        # Configuração específica para Node.js (TypeScript)
+├── vite.config.ts            # Configurações do Vite
+
 ```
+
 ## 📚 Referências
-[Documentação do React]("https://react.dev")
-[Documentação do TypeScript]("https://www.typescriptlang.org")
-[Documentação do Tailwind CSS]("https://tailwindcss.com")
-[Documentação do Material-UI]("https://mui.com")
+
+[Documentação do React](https://react.dev)
+
+[Documentação do TypeScript](https://www.typescriptlang.org)
+
+[Documentação do Tailwind CSS](https://tailwindcss.com)
+
+[Documentação do Material-UI](https://mui.com)
 
 
 
