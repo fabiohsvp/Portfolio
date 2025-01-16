@@ -90,6 +90,7 @@ my_portfolio/
 │   ├── vite-env.d.ts        # Tipagens do Vite
 ├── .firebaserc               # Configurações do Firebase
 ├── .gitignore                # Arquivos a serem ignorados pelo Git
+├── LICENSE                   # Licença MIT (Massachusetts Institute of Technology)
 ├── eslint.config.js          # Configurações do ESLint
 ├── firebase.json             # Configuração do Firebase Hosting
 ├── index.html                # Template HTML principal
@@ -118,6 +119,11 @@ my_portfolio/
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Se você deseja melhorar algo no projeto ou adicionar novas funcionalidades, sinta-se à vontade para enviar um pull request.
+
+
+
+## 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 
 
