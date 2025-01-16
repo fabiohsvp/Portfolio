@@ -52,7 +52,7 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 
 📸 Prévia
 
-![Página Inicial do Portfólio](./assets/home.png)
+![Página Inicial do Portfólio](./src/assets/images/Home.png)
 
 Veja o projeto completo em: [Portfólio](https://portfolio-44217.web.app)
 
