@@ -2,6 +2,8 @@
 
 Este é um projeto de portfólio desenvolvido utilizando **React**, **TypeScript**, **Tailwind CSS** e **Material-UI (MUI)**. O objetivo deste projeto é apresentar minhas habilidades e experiências como desenvolvedor, destacando meus projetos e fornecendo uma interface atraente e funcional.
 
+O projeto completo pode ser visualizado em: [Portfólio](https://portfolio-44217.web.app)
+
 ## 🚀 Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
